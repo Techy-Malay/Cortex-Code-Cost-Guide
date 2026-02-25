@@ -2,6 +2,14 @@
 
 > **TL;DR:** I lost 50% of my Snowflake credits ($112 USD) in just 3 days using Cortex Code. Here's what I learned.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Techy-Malay/Cortex-Code-Cost-Guide?style=social)](https://github.com/Techy-Malay/Cortex-Code-Cost-Guide)
+
+> **Repository:** https://github.com/Techy-Malay/snowflake-data-recovery-guide  
+> **Created:** 2026-02-25  
+> **Author:** Malaya Kumar Padhi (Malay)
+
+⭐ **If this helps you, please star the repository!**
 ## The Surprise
 
 | Metric | Value |
@@ -143,7 +151,14 @@ ALTER ACCOUNT SET CORTEX_ENABLED_CROSS_REGION = 'NONE';
 
 **However**, my account shows charges in `CORTEX_AGENT_USAGE_HISTORY` for Snowsight usage (claude-opus-4-5 model).
 
-See `SNOWFLAKE_SUPPORT_TICKET.md` for details to report this discrepancy.
+
+
+## Author
+
+**Malaya Kumar Padhi (Malay)**  
+Snowflake | Data Architecture | Data Engineering | Analytics Architecture | (Principal Data Architect – Aspirational)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mkpadhi/)
 
 ## License
 
