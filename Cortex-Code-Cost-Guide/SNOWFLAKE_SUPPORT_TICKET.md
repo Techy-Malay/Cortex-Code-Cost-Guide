@@ -36,9 +36,9 @@ ORDER BY usage_date DESC;
 ### My Results
 | Date | User | Credits | Tokens | Requests |
 |------|------|---------|--------|----------|
-| Feb 24 | SFTRAINING | 5.14 | 2,284,780 | 78 |
-| Feb 23 | SFTRAINING | 17.92 | 9,202,305 | 265 |
-| Feb 22 | SFTRAINING | 0.92 | 245,963 | 22 |
+| Feb 24 | SF***** | 5.14 | 2,284,780 | 78 |
+| Feb 23 | SF***** | 17.92 | 9,202,305 | 265 |
+| Feb 22 | SF***** | 0.92 | 245,963 | 22 |
 
 ### Balance Impact (USD)
 ```sql
