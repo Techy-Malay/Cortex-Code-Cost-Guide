@@ -86,7 +86,7 @@ Don't wait until your invoice arrives.
 
 ## Support Ticket — Trial Credit Confirmation (CONFIRMED)
 
-**Status:** Confirmed by Snowflake Support (Kushagra Srivastava)
+**Status:** Confirmed by Snowflake Support 
 
 | Question | Confirmed Answer |
 |----------|------------------|
