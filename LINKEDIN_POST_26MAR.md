@@ -1,6 +1,6 @@
 # LinkedIn Post — Cortex Code Pricing: What Every Snowflake User Needs to Know
 
-**Date:** 2026-03-24
+**Date:** 2026-03-25
 **Topic:** Cortex Code in Snowsight moves from free preview to paid — April 1, 2026
 **Audience:** Snowflake practitioners, data engineers, trial account users, cost-conscious teams
 
